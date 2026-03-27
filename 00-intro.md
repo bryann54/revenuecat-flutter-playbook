@@ -1,12 +1,12 @@
 # 💳 RevenueCat Flutter Playbook
 
-> In-app subscriptions for Flutter — from zero to production. Written for humans.
+> In-app subscriptions for Flutter devs.
 
 ---
 
 ## Who is this for?
 
-This guide is for any Flutter developer (or non-Flutter developer) who needs to add subscriptions to a mobile app using RevenueCat. It assumes you know basic Flutter but have never touched in-app purchases before.
+This guide is for any Flutter developer who needs to add subscriptions to a mobile app using RevenueCat. It assumes you know basic Flutter but have never touched in-app purchases before and uses a simple bloc feature 
 
 By the end you will have:
 - A working subscription paywall

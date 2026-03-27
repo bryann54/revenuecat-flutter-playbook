@@ -60,4 +60,4 @@ Your App  →  RevenueCat SDK  →  App Store (iOS)
 
 ---
 
-*Built by developers who spent way too long debugging empty offerings.*
+*Built by developer who spent way too long debugging empty offerings😂.*
